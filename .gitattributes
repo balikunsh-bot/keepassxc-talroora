@@ -1,0 +1,9 @@
+*.tsx linguist-detectable
+*.yml linguist-detectable=false
+
+docs/*.html linguist-vendored
+
+*.md linguist-documentation
+*.jpeg binary
+*.ico binary
+*.svg text
